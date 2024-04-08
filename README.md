@@ -1,2 +1,2 @@
 # Projects
-This repository encompasses a collection of my Data Analytics portfolio projects, spanning SQL, Python, Tableau and Excel.
+This repository encompasses a collection of my Data Analytics projects, spanning SQL, Python, Tableau and Excel.
